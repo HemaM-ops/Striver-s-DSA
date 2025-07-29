@@ -1,3 +1,6 @@
+// M Hemasri - AIE22028
+// 29.07.25 - Tuesday
+
 /* printing the below pattern
  * * * *
  *  * * *
