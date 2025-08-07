@@ -7,7 +7,6 @@
 //logic
 // A number is a palindrome if number == reverse of number.
 // return true if palindrome, else return false
-
 import java.util.Scanner;
 public class Palindrome {
 
