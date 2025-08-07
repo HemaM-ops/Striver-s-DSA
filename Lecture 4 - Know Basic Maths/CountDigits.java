@@ -25,5 +25,7 @@ class CountDigits{
         int n = sc.nextInt();
         int result = obj.countDigits(n);
         System.out.println(result);
+
+        sc.close();
     }
 }

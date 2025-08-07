@@ -30,6 +30,8 @@ public class ReverseNumber {
         int n = sc.nextInt();
         ReverseNumber obj = new ReverseNumber();
         obj.reverseNumber(n);
+
+        sc.close();
     }
     
 }
