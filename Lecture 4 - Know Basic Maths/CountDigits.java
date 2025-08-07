@@ -27,5 +27,6 @@ class CountDigits{
         System.out.println(result);
 
         sc.close();
+        
     }
 }
