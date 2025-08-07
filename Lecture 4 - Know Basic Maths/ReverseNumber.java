@@ -32,6 +32,7 @@ public class ReverseNumber {
         obj.reverseNumber(n);
 
         sc.close();
+        
     }
     
 }
