@@ -29,6 +29,8 @@ public class Days{
         int result = day.NumOfDays(d,n);
         System.out.println("The day is: "+result+"-"+days[result]);
 
+        sc.close();
+
 
     }
 }
